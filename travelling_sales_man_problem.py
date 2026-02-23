@@ -25,7 +25,7 @@ def get_min_index_of_list_that_are_not_visited(original_data, data_list, visited
         index_of_sorted_value += 1
 
 
-Roll_number = 9847373207
+Roll_number = 9861239029
 
 A = 10 + 2 * get_digit_from_roll_number(Roll_number, -3)
 B = 27 + get_digit_from_roll_number(Roll_number, -2)
